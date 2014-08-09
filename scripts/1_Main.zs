@@ -110,7 +110,14 @@ recipes.remove(<BuildCraft|Factory:pumpBlock>);
 # recipes.remove(<JAKJ_RedstoneInMotion:tile.JAKJ_RedstoneInMotion_Carriage:4>);
 
 # Bonemeal Bug
-recipes.remove(<UndergroundBiomes:fossilPiece:*>);
+# recipes.remove(<UndergroundBiomes:fossilPiece>);
+# recipes.remove(<UndergroundBiomes:fossilPiece:1>);
+# recipes.remove(<UndergroundBiomes:fossilPiece:2>);
+# recipes.remove(<UndergroundBiomes:fossilPiece:3>);
+# recipes.remove(<UndergroundBiomes:fossilPiece:4>);
+# recipes.remove(<UndergroundBiomes:fossilPiece:5>);
+# recipes.remove(<UndergroundBiomes:fossilPiece:6>);
+# recipes.remove(<UndergroundBiomes:fossilPiece:7>);
 
 
 # Add Recipes
