@@ -188,6 +188,3 @@ recipes.addShaped(<ExtraUtilities:enderQuarry>*1, [[<gregtech:gt.metaitem.02:313
 
 # Carriage Frames 8x Fix
 # recipes.addShaped(<JAKJ_RedstoneInMotion:tile.JAKJ_RedstoneInMotion_Carriage:4>*8, [[<JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_SimpleItemSet:2>, <JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_SimpleItemSet:2>, <JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_SimpleItemSet:2>], [<JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_SimpleItemSet:2>, <JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_SimpleItemSet:2>, <JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_SimpleItemSet:2>], [<JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_SimpleItemSet:2>, <JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_SimpleItemSet:2>,<minecraft:dye:5>]]);
-
-# LV Transformer Gregtech Fix
-recipes.addShaped(<gregtech:gt.blockmachines:21>*1, [[null, <gregtech:gt.blockmachines:1246>, <gregtech:gt.blockmachines:1246>], [<gregtech:gt.blockmachines:1246>, <gregtech:gt.blockmachines:11>, null], [null, <gregtech:gt.blockmachines:1246>, <gregtech:gt.blockmachines:1246>]]);
