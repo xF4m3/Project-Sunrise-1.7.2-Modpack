@@ -109,18 +109,12 @@ recipes.remove(<BuildCraft|Factory:pumpBlock>);
 # Carriage Frames 8x Bug Fix
 # recipes.remove(<JAKJ_RedstoneInMotion:tile.JAKJ_RedstoneInMotion_Carriage:4>);
 
-# Bonemeal Bug
-# recipes.remove(<UndergroundBiomes:fossilPiece>);
-# recipes.remove(<UndergroundBiomes:fossilPiece:1>);
-# recipes.remove(<UndergroundBiomes:fossilPiece:2>);
-# recipes.remove(<UndergroundBiomes:fossilPiece:3>);
-# recipes.remove(<UndergroundBiomes:fossilPiece:4>);
-# recipes.remove(<UndergroundBiomes:fossilPiece:5>);
-# recipes.remove(<UndergroundBiomes:fossilPiece:6>);
-# recipes.remove(<UndergroundBiomes:fossilPiece:7>);
+# LV Transformer GregTech Fix
+recipes.remove(<gregtech:gtblockmachines:21>);
 
 
 # Add Recipes
+# recipes.addShaped(<>*1, [[<>], [<>], [<>]]);    # Template
 
 
 # EnderQuarry
@@ -194,3 +188,6 @@ recipes.addShaped(<ExtraUtilities:enderQuarry>*1, [[<gregtech:gt.metaitem.02:313
 
 # Carriage Frames 8x Fix
 # recipes.addShaped(<JAKJ_RedstoneInMotion:tile.JAKJ_RedstoneInMotion_Carriage:4>*8, [[<JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_SimpleItemSet:2>, <JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_SimpleItemSet:2>, <JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_SimpleItemSet:2>], [<JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_SimpleItemSet:2>, <JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_SimpleItemSet:2>, <JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_SimpleItemSet:2>], [<JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_SimpleItemSet:2>, <JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_SimpleItemSet:2>,<minecraft:dye:5>]]);
+
+# LV Transformer Gregtech Fix
+recipes.addShaped(<gregtech:gt.blockmachines:21>*1, [[null, <gregtech:gt.blockmachines:1246>, <gregtech:gt.blockmachines:1246>], [<gregtech:gt.blockmachines:1246>, <gregtech:gt.blockmachines:11>, null], [null, <gregtech:gt.blockmachines:1246>, <gregtech:gt.blockmachines:1246>]]);
