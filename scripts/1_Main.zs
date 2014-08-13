@@ -109,9 +109,6 @@ recipes.remove(<BuildCraft|Factory:pumpBlock>);
 # Carriage Frames 8x Bug Fix
 # recipes.remove(<JAKJ_RedstoneInMotion:tile.JAKJ_RedstoneInMotion_Carriage:4>);
 
-# LV Transformer GregTech Fix
-recipes.remove(<gregtech:gtblockmachines:21>);
-
 
 # Add Recipes
 # recipes.addShaped(<>*1, [[<>], [<>], [<>]]);    # Template
