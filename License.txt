@@ -476,7 +476,7 @@ ZansMinimap:
 https://github.com/lahwran/zanmini                                                                                                         
 author: lahwran
 
-Zminetweaker: 
+minetweaker: 
 http://www.minecraftforum.net/topic/1886008-minetweaker-add-and-remove-recipes-make-tweaks/                   
 author: StanH
 
