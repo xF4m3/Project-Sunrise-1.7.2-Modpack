@@ -1,4 +1,4 @@
 Project-Sunrise-Test-Pack
 =========================
 
-Just for Testing Purpose
+1.7.2 Project Sunrise Modpack
