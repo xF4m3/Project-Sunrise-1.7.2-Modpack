@@ -42,6 +42,9 @@ Autoutils:
 http://www.minecraftforum.net/topic/1749374-164smpforge-chisel/                                         
 author: AUTOMATIC_MAIDI
 
+Baubles:
+http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294623-baubles-1-0-1-7-updated-26-8-2014
+author: Azanor
 
 bspkrsCore, StatusEffectHUD, Armor Status HUD: 
 http://www.minecraftforum.net/topic/1114612-172-bspkrs-mods-armorstatushud-directionhud-statuseffecthud/                                   
@@ -74,6 +77,10 @@ author: Binnie
 Biomes o plenty: 
 http://www.minecraftforum.net/topic/1495041-172-forge-biomes-o-plenty-were-back/                        
 author: TDWP_FTW
+
+Botania:
+http://vazkii.us/mod/Botania/
+author: Vazkii
 
 Blood Magic:
 http://www.minecraftforum.net/topic/1899223-172164-blood-magic-v100dv101c-updated-apr-27/                                               
@@ -135,6 +142,10 @@ DragonAPI:
 https://sites.google.com/site/reikasminecraft/dragonapi                                         
 author: reika                                                                                                                            
 "So long as you do not sell any of my stuff for profit or otherwise restrict it to donators, go ahead. :)"
+
+Dimensional Anchor:
+http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281065-immibiss-mods-now-with-85-7-less-version-numbers
+author: Immibis
 
 ElectromagicTools: 
 http://www.minecraftforum.net/topic/2196652-172smpforgeindustrialcraft-2thaumcraft-4-electro-magic-tools-now-with-over-15-000-downloads-updated-170414/                                                                                                                            
@@ -203,6 +214,18 @@ Gregtech:
 http://forum.industrial-craft.net/index.php?page=Thread&threadID=7156&                                           
 author: GregoriusT
 
+Gravestone:
+http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288082-gravestone-mod-v2-9-3
+author: NightKosh
+
+Hardcore Ender Expansion:
+http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281889-hardcore-ender-expansion-v1-6-2-110-000-dls
+author: chylex
+
+Hardcore Questing Mode:
+http://www.curse.com/mc-mods/minecraft/hardcore-questing-mode
+author: Vswe, Newcastlegeek
+
 HopperDuctsMod: 
 http://www.minecraftforum.net/topic/1932977-15x16x172-hopper-ducts-mod/                                            
 author: FyberOptic
@@ -247,6 +270,10 @@ Magic Bees:
 http://www.minecraftforum.net/topic/1627856-magic-bees-magic-themed-bees-for-forestry-the-successor-to-thaumicbees/        
 author:MysteriousAges
 
+Mantle:
+http://www.curse.com/mc-mods/minecraft/mantle
+author: progwml6
+
 Mariculture: 
 http://www.minecraftforum.net/topic/2049315-164172mariculture-121e-172-beta-2-updated-29032013/                         
 author: joshie
@@ -280,6 +307,14 @@ author: SeNtiMeL
 Morph: 
 http://ichun.us/mods/morph/                                                                                             
 author: iChun
+
+Mapwriter:
+http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286882-mapwriter-an-open-source-mini-map
+author: mapwriter
+
+MineMenu:
+http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2141720-minemenu-v1-1-7-radial-menu-nuff-said
+author: dmillerw
 
 Natura: 
 http://www.minecraftforum.net/topic/1753754-16xnatura/                                                                    
@@ -325,6 +360,10 @@ OpenPeripheral Core:
 http://www.minecraftforum.net/topic/1941514-16x-openblocks-127/                                                         
 author: Mikeemoo
 
+Ore Dictionary Converter:
+http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1286974-ore-dictionary-converter
+author: EXTER6
+
 Power Converter: 
 http://www.minecraftforum.net/topic/554413-100smp-pcs-mods-minefactory-reloaded-power-converters-and-more-updated-dec-19th/                 
 author: power crystals
@@ -367,10 +406,6 @@ Reliquary:
 http://www.minecraftforum.net/topic/2237899-164v112-reliquary/                                                       
 author: TheMike
 
-RemainInMotion:
-http://forums.technicpack.net/topic/45317-16x15x-redstone-in-motion-redpower-frames-2300-october-8/
-author: JAKJ
-
 RemoteIo: 
 http://www.minecraftforum.net/topic/2038242-16x-forge-remote-io-v111-its-time-to-think-outside-the-blocks/               
 author: dmillerw
@@ -403,6 +438,10 @@ Steaves Carts:
 http://stevescarts2.wikispaces.com/                                                                                          
 author: Vswe
 
+Steves Factory Manager:
+http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293066-1-7-2-steves-factory-manager
+author: Vswe
+
 Switches: 
 http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/                                               
 author: Myrathis
@@ -414,6 +453,10 @@ author: iChun
 Tconstruct: 
 http://www.minecraftforum.net/topic/1659892-164tinkers-construct/                                                 
 author: mDiyo
+
+TIC Tooltips:
+http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294501-tic-tooltips-in-game-tinkers-construct-tool
+author: squeek502
 
 Thaumcraft4.1:
 http://www.minecraftforum.net/topic/2011841-thaumcraft-41111-updated-2642014/                                          
@@ -452,6 +495,10 @@ Twighligt Forest:
 http://www.minecraftforum.net/topic/561673-172-the-twilight-forest-v203-updated-to-minecraft-17/                   
 author: Benimatic
 
+Underground Biomes Constructs:
+http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293503-1-7-2-underground-biomes-constructs
+author: Zeno410
+
 Universal Electricity: 
 http://universalelectricity.com/                                                                                                          
 author: Calclavia 
@@ -476,8 +523,8 @@ ZansMinimap:
 https://github.com/lahwran/zanmini                                                                                                         
 author: lahwran
 
-minetweaker: 
+Zminetweaker: 
 http://www.minecraftforum.net/topic/1886008-minetweaker-add-and-remove-recipes-make-tweaks/                   
 author: StanH
 
-Note: For every quote in here I also got a Picture as prove for people which don’t believe me :) 
+Note: For every quote in here I also got a Picture as prove for people which want to see some prove :) Just Check the dropbox link at the Top. 
